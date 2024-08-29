@@ -370,7 +370,7 @@ const AssignmentPage = () => {
                     <div className='flex gap-2 items-center'>
 
                         <input type="text" className='w-[30rem] py-2 px-4 my-4 border outline-none border-[#ffca28] shadow-[#ffca28] rounded-full' placeholder='Ask or Search your Question' />
-                        <button className='border bg-[#ed1c24] hover:bg-red-700 text-white px-4 py-1 rounded-md'>Ask</button>
+                        <button className='border bg-[#ed1c24] hover:bg-red-700 text-white px-4 py-2 rounded-md'>Ask</button>
                     </div>
                 </div>
                 <div className='flex justify-center items-center'>
